@@ -30,9 +30,4 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    python tic_tac_toe.py
 
-   
-
-
-
-
 This is a project created for fun.
